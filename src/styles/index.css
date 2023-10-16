@@ -3,11 +3,17 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-color: #F9F5EB;
 }
 
 a {
   text-decoration: none;
   color: black;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
 }
 
 ::-webkit-scrollbar {
