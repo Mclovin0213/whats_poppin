@@ -1,0 +1,7 @@
+.navbox_link {
+    height: 10vh;
+    width: 18vw;
+    border: 1px red solid;
+    background-color: #EEEEEE;
+    border-radius: 10%;
+}

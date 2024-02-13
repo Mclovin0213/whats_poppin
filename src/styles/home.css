@@ -1,0 +1,14 @@
+.carousel_item {
+    height: 10vh;
+    width: 20vw;
+    background-color: azure;
+}
+
+.poster_container {
+    width: 12.5rem;
+    height: 18.75rem;
+    border: 3px solid black;
+}
+
+
+
